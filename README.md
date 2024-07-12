@@ -9,5 +9,5 @@
 
 ### Prerequisites
 
-- Web browser (Chrome, Firefox, Safari, etc.)
-- Text editor (Visual Studio Code, Sublime Text, etc.)
+- Web browser (Chrome, Firefox, or Safari.)
+- Text editor (Visual Studio Code, or Sublime Text.)
